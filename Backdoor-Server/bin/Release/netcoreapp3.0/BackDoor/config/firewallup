@@ -1,0 +1,43 @@
+#!/bin/bash
+IPT="/sbin/iptables"
+#Stop certain attacks
+echo "Setting sysctl IPv4 settings..."
+/sbin/sysctl net.ipv4.ip_forward=0
+/sbin/sysctl net.ipv4.conf.all.send_redirects=0
+/sbin/sysctl net.ipv4.conf.default.send_redirects=0
+/sbin/sysctl net.ipv4.conf.all.accept_source_route=0
+/sbin/sysctl net.ipv4.conf.all.accept_redirects=0
+/sbin/sysctl net.ipv4.conf.all.secure_redirects=0
+/sbin/sysctl net.ipv4.conf.all.log_martians=1
+/sbin/sysctl net.ipv4.conf.default.accept_source_route=0
+/sbin/sysctl net.ipv4.conf.default.accept_redirects=0
+/sbin/sysctl net.ipv4.conf.default.secure_redirects=0
+/sbin/sysctl net.ipv4.icmp_echo_ignore_broadcasts=1
+/sbin/sysctl net.ipv4.tcp_syncookies=1
+/sbin/sysctl net.ipv4.conf.all.rp_filter=1
+/sbin/sysctl net.ipv4.conf.default.rp_filter=1
+/sbin/sysctl -p
+#Flash IPTABLES
+iptables -F 
+iptables -X
+iptables -t nat -F
+iptables -t nat -X
+iptables -t mangle -F
+iptables -t mangle -X
+iptables -A INPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
+iptables -A INPUT -i lo -j ACCEPT
+iptables -A INPUT -s 51.68.122.96 -j ACCEPT
+iptables -A INPUT -s 5.14.18.43 -j ACCEPT
+iptables -A INPUT -m tcp -p tcp -m state --state NEW --dport 9091 -j ACCEPT
+iptables -A INPUT -m tcp -p tcp -m state --state NEW --dport 51414 -j ACCEPT
+iptables -A INPUT -m tcp -p tcp -m state --state NEW --dport 22 -j ACCEPT
+iptables -A INPUT -m udp -p udp -m state --state NEW --dport 22 -j ACCEPT
+iptables -A INPUT -m tcp -p tcp -m state --state NEW --dport 83 -j ACCEPT
+iptables -A INPUT -m udp -p udp -m state --state NEW --dport 83 -j ACCEPT
+iptables -A INPUT -m udp -p udp -m state --state NEW --dport 29000 -j ACCEPT
+iptables -A INPUT -m tcp -p tcp -m state --state NEW --dport 29000 -j ACCEPT
+iptables -A INPUT -m udp -p udp -m state --state NEW --dport 1985 -j ACCEPT
+iptables -A INPUT -m tcp -p tcp -m state --state NEW --dport 1985 -j ACCEPT
+iptables -A INPUT -j DROP
+#iptables -I INPUT -s 185.220.70.145 -j DROP
+iptables -v -L -n 

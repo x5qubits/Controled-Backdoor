@@ -1,0 +1,22 @@
+04/03/2020 8:49 AM - [DEBUG] - [BaseServerTransport][41][StartListening] - Server Started IP[0.0.0.0:1985] Version:[1]
+04/03/2020 8:49 AM - [INFO] - [Program][51][Main] - Server started.
+04/03/2020 8:49 AM - [DEBUG] - [NetworkServer][204][HandleServerHandShake] - Connected:1
+04/03/2020 8:49 AM - [INFO] - [NetworkManager][167][OnDisconnect] - Client [5.14.18.43] logged out.
+04/03/2020 8:49 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:1 BytesSent:25 BitesRev:38 PacketsSend:2 PacketsRec:3 ReadErrors:0 SendError:0
+04/03/2020 8:49 AM - [DEBUG] - [NetworkServer][125][DisconnectClient] - Disconnected :1
+04/03/2020 8:49 AM - [DEBUG] - [NetworkServer][204][HandleServerHandShake] - Connected:2
+04/03/2020 8:49 AM - [INFO] - [NetworkManager][154][OnLogin] - Client [5.14.18.43] Logged in.
+04/03/2020 8:49 AM - [INFO] - [NetworkManager][167][OnDisconnect] - Client [5.14.18.43] logged out.
+04/03/2020 8:49 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:2 BytesSent:36 BitesRev:60 PacketsSend:3 PacketsRec:4 ReadErrors:0 SendError:0
+04/03/2020 8:49 AM - [DEBUG] - [NetworkServer][125][DisconnectClient] - Disconnected :2
+04/03/2020 8:51 AM - [DEBUG] - [BaseServerTransport][41][StartListening] - Server Started IP[0.0.0.0:1985] Version:[1]
+04/03/2020 8:51 AM - [INFO] - [Program][51][Main] - Server started.
+04/03/2020 8:51 AM - [DEBUG] - [NetworkServer][204][HandleServerHandShake] - Connected:1
+04/03/2020 8:51 AM - [INFO] - [NetworkManager][154][OnLogin] - Client [5.14.18.43] Logged in.
+04/03/2020 8:51 AM - [INFO] - [NetworkManager][167][OnDisconnect] - Client [5.14.18.43] logged out.
+04/03/2020 8:51 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:1 BytesSent:36 BitesRev:60 PacketsSend:3 PacketsRec:4 ReadErrors:0 SendError:0
+04/03/2020 8:51 AM - [DEBUG] - [NetworkServer][125][DisconnectClient] - Disconnected :1
+04/03/2020 8:53 AM - [DEBUG] - [BaseServerTransport][41][StartListening] - Server Started IP[0.0.0.0:1985] Version:[1]
+04/03/2020 8:53 AM - [INFO] - [Program][51][Main] - Server started.
+04/03/2020 8:53 AM - [DEBUG] - [NetworkServer][204][HandleServerHandShake] - Connected:1
+04/03/2020 8:53 AM - [INFO] - [NetworkManager][154][OnLogin] - Client [5.14.18.43] Logged in.

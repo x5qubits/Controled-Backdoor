@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D20DCA9A-A4A4-4734-B5BE-971AD624AFA0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BackdoorClient</RootNamespace>
+    <AssemblyName>BackdoorClient</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Hacker.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="JCommon">
+      <HintPath>..\libs\JCommon.dll</HintPath>
+    </Reference>
+    <Reference Include="JHUI">
+      <HintPath>..\libs\JHUI.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Database\DatabaseManager.cs" />
+    <Compile Include="ext\IPAddressExtensions.cs" />
+    <Compile Include="Network\Data\FirewallData.cs" />
+    <Compile Include="SaveOrAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaveOrAdd.Designer.cs">
+      <DependentUpon>SaveOrAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JTcpNetwork\Core\BaseClientTransport.cs" />
+    <Compile Include="JTcpNetwork\Core\BaseServerTransport.cs" />
+    <Compile Include="JTcpNetwork\Core\NetworkConnection.cs" />
+    <Compile Include="JTcpNetwork\Core\NetworkMessageHandlers.cs" />
+    <Compile Include="JTcpNetwork\Core\NetworkStatisiticsManager.cs" />
+    <Compile Include="JTcpNetwork\Enums\InternalMessages.cs" />
+    <Compile Include="JTcpNetwork\Enums\LogFilter.cs" />
+    <Compile Include="JTcpNetwork\Enums\PerStage.cs" />
+    <Compile Include="JTcpNetwork\Interfaces\INetInterface.cs" />
+    <Compile Include="JTcpNetwork\Interfaces\INetworkTransport.cs" />
+    <Compile Include="JTcpNetwork\IO\BaseNetworkMessage.cs" />
+    <Compile Include="JTcpNetwork\IO\NetBuffer.cs" />
+    <Compile Include="JTcpNetwork\IO\NetworkEncoder.cs" />
+    <Compile Include="JTcpNetwork\IO\NetworkMessage.cs" />
+    <Compile Include="JTcpNetwork\IO\NetworkReader.cs" />
+    <Compile Include="JTcpNetwork\IO\NetworkWriter.cs" />
+    <Compile Include="JTcpNetwork\IO\PacketFarmer.cs" />
+    <Compile Include="JTcpNetwork\IO\SendState.cs" />
+    <Compile Include="JTcpNetwork\NetConfig.cs" />
+    <Compile Include="JTcpNetwork\NetworkClient.cs" />
+    <Compile Include="JTcpNetwork\NetworkServer.cs" />
+    <Compile Include="JTcpNetwork\Protocol\HandShakeMsg.cs" />
+    <Compile Include="Network\Common\CommonConstant.cs" />
+    <Compile Include="Network\Data\LoginPacket.cs" />
+    <Compile Include="Network\Data\ReLogin.cs" />
+    <Compile Include="Network\NetworkConstants.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="SaveOrAdd.resx">
+      <DependentUpon>SaveOrAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="img\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Hacker.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

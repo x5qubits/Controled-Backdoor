@@ -1,0 +1,322 @@
+04/03/2020 8:55 AM - [ERROR] - [Log][91][MLog] - Please call Initialize first - Starting with default path : C:\Users\x5qubits\source\repos\Backdoor\Backdoor-Client\bin\Debug\JLog/Jlog.txt
+04/03/2020 8:55 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 8:55 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:2 BytesSent:60 BitesRev:36 PacketsSend:4 PacketsRec:3 ReadErrors:0 SendError:0
+04/03/2020 8:55 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :2
+04/03/2020 8:55 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:2 BytesSent:60 BitesRev:36 PacketsSend:4 PacketsRec:3 ReadErrors:0 SendError:0
+04/03/2020 8:57 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:2 BytesSent:60 BitesRev:36 PacketsSend:4 PacketsRec:3 ReadErrors:0 SendError:0
+04/03/2020 8:57 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :2
+04/03/2020 8:57 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:2 BytesSent:60 BitesRev:36 PacketsSend:4 PacketsRec:3 ReadErrors:0 SendError:0
+04/03/2020 8:57 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:03 AM - [ERROR] - [Log][91][MLog] - Please call Initialize first - Starting with default path : C:\Users\x5qubits\source\repos\Backdoor\Backdoor-Client\bin\Debug\JLog/Jlog.txt
+04/03/2020 9:03 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:03 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:1 BytesSent:4306 BitesRev:58 PacketsSend:6 PacketsRec:5 ReadErrors:0 SendError:0
+04/03/2020 9:03 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :1
+04/03/2020 9:03 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:1 BytesSent:4306 BitesRev:58 PacketsSend:6 PacketsRec:5 ReadErrors:0 SendError:0
+04/03/2020 9:03 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:1 BytesSent:4306 BitesRev:58 PacketsSend:6 PacketsRec:5 ReadErrors:0 SendError:0
+04/03/2020 9:03 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :1
+04/03/2020 9:03 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:1 BytesSent:4306 BitesRev:58 PacketsSend:6 PacketsRec:5 ReadErrors:0 SendError:0
+04/03/2020 9:03 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:04 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:04 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:04 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:04 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:04 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:05 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:05 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:05 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:05 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:05 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:05 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:05 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:05 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:05 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:05 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:05 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:05 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:05 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:05 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:05 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:05 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:05 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:4 BytesSent:38 BitesRev:25 PacketsSend:3 PacketsRec:2 ReadErrors:0 SendError:0
+04/03/2020 9:05 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :4
+04/03/2020 9:05 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:4 BytesSent:38 BitesRev:25 PacketsSend:3 PacketsRec:2 ReadErrors:0 SendError:0
+04/03/2020 9:05 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:05 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:5 BytesSent:60 BitesRev:36 PacketsSend:4 PacketsRec:3 ReadErrors:0 SendError:0
+04/03/2020 9:05 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :5
+04/03/2020 9:05 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:5 BytesSent:60 BitesRev:36 PacketsSend:4 PacketsRec:3 ReadErrors:0 SendError:0
+04/03/2020 9:05 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:5 BytesSent:60 BitesRev:36 PacketsSend:4 PacketsRec:3 ReadErrors:0 SendError:0
+04/03/2020 9:05 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :5
+04/03/2020 9:05 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:5 BytesSent:60 BitesRev:36 PacketsSend:4 PacketsRec:3 ReadErrors:0 SendError:0
+04/03/2020 9:05 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:06 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:06 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:06 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:06 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:06 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:07 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:07 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:07 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:07 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:10 AM - [ERROR] - [Log][91][MLog] - Please call Initialize first - Starting with default path : C:\Users\x5qubits\source\repos\Backdoor\Backdoor-Client\bin\Debug\JLog/Jlog.txt
+04/03/2020 9:10 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:10 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:10 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:10 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:11 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:11 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:12 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:12 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:12 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:12 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:12 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:12 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:12 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:12 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:12 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:12 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:12 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:12 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:12 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:12 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:12 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:12 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:12 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:12 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:12 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:12 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:12 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:12 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:12 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:12 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:12 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:12 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:12 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:12 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:12 AM - [ERROR] - [Log][91][MLog] - Please call Initialize first - Starting with default path : C:\Users\x5qubits\source\repos\Backdoor\Backdoor-Client\bin\Debug\JLog/Jlog.txt
+04/03/2020 9:12 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:13 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:13 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:13 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:13 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:1 BytesSent:4458 BitesRev:58 PacketsSend:6 PacketsRec:5 ReadErrors:0 SendError:0
+04/03/2020 9:13 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :1
+04/03/2020 9:13 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:1 BytesSent:4458 BitesRev:58 PacketsSend:6 PacketsRec:5 ReadErrors:0 SendError:0
+04/03/2020 9:13 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:1 BytesSent:4458 BitesRev:58 PacketsSend:6 PacketsRec:5 ReadErrors:0 SendError:0
+04/03/2020 9:13 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :1
+04/03/2020 9:13 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:1 BytesSent:4458 BitesRev:58 PacketsSend:6 PacketsRec:5 ReadErrors:0 SendError:0
+04/03/2020 9:13 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:14 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:14 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:14 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:14 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:14 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:17 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:17 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:17 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:17 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:17 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:17 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:17 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:17 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:17 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:17 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:17 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:17 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:17 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:17 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:17 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:17 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:17 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:6 BytesSent:38 BitesRev:25 PacketsSend:3 PacketsRec:2 ReadErrors:0 SendError:0
+04/03/2020 9:17 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :6
+04/03/2020 9:17 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:6 BytesSent:38 BitesRev:25 PacketsSend:3 PacketsRec:2 ReadErrors:0 SendError:0
+04/03/2020 9:17 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:17 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:7 BytesSent:60 BitesRev:36 PacketsSend:4 PacketsRec:3 ReadErrors:0 SendError:0
+04/03/2020 9:17 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :7
+04/03/2020 9:17 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:7 BytesSent:60 BitesRev:36 PacketsSend:4 PacketsRec:3 ReadErrors:0 SendError:0
+04/03/2020 9:17 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:7 BytesSent:60 BitesRev:36 PacketsSend:4 PacketsRec:3 ReadErrors:0 SendError:0
+04/03/2020 9:17 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :7
+04/03/2020 9:17 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:7 BytesSent:60 BitesRev:36 PacketsSend:4 PacketsRec:3 ReadErrors:0 SendError:0
+04/03/2020 9:17 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:18 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:18 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:18 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:18 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:18 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:20 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:20 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:20 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:20 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:20 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:20 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:21 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:21 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:21 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:21 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:21 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:21 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:21 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:21 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:21 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:21 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:21 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:21 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:21 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:21 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:21 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:21 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:21 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:21 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:21 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:21 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:21 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:21 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:21 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:21 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:21 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:21 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:21 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:21 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:21 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:21 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:21 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:21 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:21 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:21 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:21 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:21 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:21 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:21 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:21 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:21 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:21 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:21 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:21 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:21 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:21 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:21 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:21 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:21 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:21 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:21 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:21 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:21 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:21 AM - [ERROR] - [Log][91][MLog] - Please call Initialize first - Starting with default path : C:\Users\x5qubits\source\repos\Backdoor\Backdoor-Client\bin\Debug\JLog/Jlog.txt
+04/03/2020 9:21 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:21 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:21 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:22 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:22 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:22 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:22 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:22 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:22 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:22 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:22 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:22 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:22 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:22 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:22 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:22 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:22 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:22 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:22 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:22 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:22 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:22 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:22 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:22 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:22 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:22 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:22 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:22 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:23 AM - [ERROR] - [Log][91][MLog] - Please call Initialize first - Starting with default path : C:\Users\x5qubits\source\repos\Backdoor\Backdoor-Client\bin\Debug\JLog/Jlog.txt
+04/03/2020 9:23 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:28 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:1 BytesSent:115 BitesRev:739 PacketsSend:9 PacketsRec:8 ReadErrors:0 SendError:0
+04/03/2020 9:28 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :1
+04/03/2020 9:28 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:28 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:28 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:29 AM - [ERROR] - [Log][91][MLog] - Please call Initialize first - Starting with default path : C:\Users\x5qubits\source\repos\Backdoor\Backdoor-Client\bin\Debug\JLog/Jlog.txt
+04/03/2020 9:29 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:29 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:29 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:29 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:29 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:29 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:29 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:29 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:29 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:29 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:29 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:29 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:29 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:29 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:29 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:29 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:29 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:29 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:29 AM - [ERROR] - [Log][91][MLog] - Please call Initialize first - Starting with default path : C:\Users\x5qubits\source\repos\Backdoor\Backdoor-Client\bin\Debug\JLog/Jlog.txt
+04/03/2020 9:29 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:29 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:29 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:29 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:29 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:29 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:30 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:30 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:30 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:30 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:32 AM - [ERROR] - [Log][91][MLog] - Please call Initialize first - Starting with default path : C:\Users\x5qubits\source\repos\Backdoor\Backdoor-Client\bin\Debug\JLog/Jlog.txt
+04/03/2020 9:32 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:32 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:8 BytesSent:71 BitesRev:47 PacketsSend:5 PacketsRec:4 ReadErrors:0 SendError:0
+04/03/2020 9:32 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :8
+04/03/2020 9:32 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:8 BytesSent:71 BitesRev:47 PacketsSend:5 PacketsRec:4 ReadErrors:0 SendError:0
+04/03/2020 9:32 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:32 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:32 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:32 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:33 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:33 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:33 AM - [ERROR] - [Log][91][MLog] - Please call Initialize first - Starting with default path : C:\Users\x5qubits\source\repos\Backdoor\Backdoor-Client\bin\Debug\JLog/Jlog.txt
+04/03/2020 9:33 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:33 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:0 BytesSent:0 BitesRev:0 PacketsSend:0 PacketsRec:0 ReadErrors:0 SendError:0
+04/03/2020 9:33 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :0
+04/03/2020 9:33 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:34 AM - [ERROR] - [Log][91][MLog] - Please call Initialize first - Starting with default path : C:\Users\x5qubits\source\repos\Backdoor\Backdoor-Client\bin\Debug\JLog/Jlog.txt
+04/03/2020 9:34 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:34 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:2 BytesSent:60 BitesRev:36 PacketsSend:4 PacketsRec:3 ReadErrors:0 SendError:0
+04/03/2020 9:34 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :2
+04/03/2020 9:34 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:2 BytesSent:60 BitesRev:36 PacketsSend:4 PacketsRec:3 ReadErrors:0 SendError:0
+04/03/2020 9:34 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:35 AM - [ERROR] - [Log][91][MLog] - Please call Initialize first - Starting with default path : C:\Users\x5qubits\source\repos\Backdoor\Backdoor-Client\bin\Debug\JLog/Jlog.txt
+04/03/2020 9:35 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:41 AM - [ERROR] - [Log][91][MLog] - Please call Initialize first - Starting with default path : C:\Users\x5qubits\source\repos\Backdoor\Backdoor-Client\bin\Debug\JLog/Jlog.txt
+04/03/2020 9:41 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:41 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:3 BytesSent:60 BitesRev:36 PacketsSend:4 PacketsRec:3 ReadErrors:0 SendError:0
+04/03/2020 9:41 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :3
+04/03/2020 9:41 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:3 BytesSent:60 BitesRev:36 PacketsSend:4 PacketsRec:3 ReadErrors:0 SendError:0
+04/03/2020 9:41 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :3
+04/03/2020 9:41 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:3 BytesSent:60 BitesRev:36 PacketsSend:4 PacketsRec:3 ReadErrors:0 SendError:0
+04/03/2020 9:41 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:3 BytesSent:60 BitesRev:36 PacketsSend:4 PacketsRec:3 ReadErrors:0 SendError:0
+04/03/2020 9:41 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :3
+04/03/2020 9:41 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:3 BytesSent:60 BitesRev:36 PacketsSend:4 PacketsRec:3 ReadErrors:0 SendError:0
+04/03/2020 9:41 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :3
+04/03/2020 9:41 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:3 BytesSent:60 BitesRev:36 PacketsSend:4 PacketsRec:3 ReadErrors:0 SendError:0
+04/03/2020 9:41 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:41 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:4 BytesSent:60 BitesRev:36 PacketsSend:4 PacketsRec:3 ReadErrors:0 SendError:0
+04/03/2020 9:41 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :4
+04/03/2020 9:41 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:4 BytesSent:60 BitesRev:36 PacketsSend:4 PacketsRec:3 ReadErrors:0 SendError:0
+04/03/2020 9:41 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :4
+04/03/2020 9:41 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:4 BytesSent:60 BitesRev:36 PacketsSend:4 PacketsRec:3 ReadErrors:0 SendError:0
+04/03/2020 9:41 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:4 BytesSent:60 BitesRev:36 PacketsSend:4 PacketsRec:3 ReadErrors:0 SendError:0
+04/03/2020 9:41 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :4
+04/03/2020 9:41 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:4 BytesSent:60 BitesRev:36 PacketsSend:4 PacketsRec:3 ReadErrors:0 SendError:0
+04/03/2020 9:41 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :4
+04/03/2020 9:41 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:4 BytesSent:60 BitesRev:36 PacketsSend:4 PacketsRec:3 ReadErrors:0 SendError:0
+04/03/2020 9:41 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
+04/03/2020 9:41 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:11 BytesSent:60 BitesRev:36 PacketsSend:4 PacketsRec:3 ReadErrors:0 SendError:0
+04/03/2020 9:41 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :11
+04/03/2020 9:41 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:11 BytesSent:60 BitesRev:36 PacketsSend:4 PacketsRec:3 ReadErrors:0 SendError:0
+04/03/2020 9:41 AM - [DEBUG] - [NetworkClient][149][Discconnectx] - Disconnected :11
+04/03/2020 9:41 AM - [INFO] - [NetworkStatisiticsManager][12][Remove] - connectionId:11 BytesSent:60 BitesRev:36 PacketsSend:4 PacketsRec:3 ReadErrors:0 SendError:0
+04/03/2020 10:25 AM - [ERROR] - [Log][91][MLog] - Please call Initialize first - Starting with default path : C:\Users\x5qubits\source\repos\Backdoor\Backdoor-Client\bin\Debug\JLog/Jlog.txt
+04/03/2020 10:25 AM - [DEBUG] - [BaseClientTransport][37][StartClient] - Created Client Version:1
